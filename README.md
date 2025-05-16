@@ -1,1 +1,1 @@
-# github-pull-request-trigger
+# repo-github-workflow-dispatch
